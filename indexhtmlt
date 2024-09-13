@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strona nomisów</title>
+</head>
+<body>
+    <header>
+        <h1>Witamy na stronie dla nomi</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>O mnie</h2>
+            <p>Nazywam siê Georg a nomi to Sasza i Andrea.</p>
+        </section>
+        
+        <section>
+            <h2>Us³ugi</h2>
+            <ul>
+                <li>Konsultacje prawne</li>
+                <li>Reprezentacja w s¹dzie</li>
+                <li>Przygotowanie dokumentów prawnych</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Kontakt</h2>
+            <p>Skontaktuj siê ze mn¹ poprzez email: <a href="mailto:kontakt@prawnik.pl">kontakt@prawnik.pl</a></p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Jan Kowalski</p>
+    </footer>
+</body>
+</html>
